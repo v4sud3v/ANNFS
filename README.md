@@ -1,2 +1,3 @@
 # ANNFS
-Artificial Neural Network from scratch using Go
+Artificial Neural Network from scratch using python
+
